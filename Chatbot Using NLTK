@@ -1,8 +1,3 @@
-
-# coding: utf-8
-
-# # Meet Robo: your friend
-
 import nltk
 import warnings
 warnings.filterwarnings("ignore")
